@@ -1,1 +1,7 @@
-# budget-buddy
+Abstract: Initially, Budget Buddy was a chess game which was to be linked with Twitch. As a group, we pivoted in another direction. In the time of Covid-19, it seemed particularly practical and reasonable to create an app which helped families to be able to stretch their dollar in a more expeditious fashion. While researching for the project, it was found that since April, more than fifty-eight percent of Americans had applied for unemployment. This particularly resonated with me, as I was one of them. I know I'm not alone. While Budget Buddy is not necessarily a stand-alone app, the differences between ours and the others were multitudinous: Our app is open-source. It was created by students. Other companies are charging for the service, which is admittedly strange considering the target audience of all Americans struggling at this time. Our app is open source. While other apps linked to customer bank accounts, ours does not, which cuts down on the potentiality for fraudulent activity. 
+
+Process: I was involved in the research, entirety of initial Powerpoint for our mock presentation. I also worked extensively with research, and developed a user-interactive Budget Buddy Todo which was completely user-responsive, involved color loops, and fit with the general theme of the project. I also worked with the Toast API extensively in an attempt to build a calendar for the user. Instead, I built an admittedly low-tech CSS calendar which was featured in the presentation. 
+
+Giovanni worked with Royce on Firebase and React. Their research and collaboration were extensive. Giovanni showed exemplary work in creating the logo, the entire UI, and all major stylings. 
+
+Eddy worked on Heroku deployment, Jaws_DB, MYSQL Workbench and Seeds.
